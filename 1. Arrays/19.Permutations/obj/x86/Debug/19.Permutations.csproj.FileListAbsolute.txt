@@ -1,0 +1,5 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\19.Permutations\bin\Debug\19.Permutations.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\19.Permutations\bin\Debug\19.Permutations.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\19.Permutations\obj\x86\Debug\19.Permutations.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\19.Permutations\obj\x86\Debug\19.Permutations.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\19.Permutations\obj\x86\Debug\19.Permutations.csprojResolveAssemblyReference.cache

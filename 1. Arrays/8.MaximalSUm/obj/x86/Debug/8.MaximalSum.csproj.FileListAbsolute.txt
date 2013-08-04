@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\8.MaximalSUm\bin\Debug\8.MaximalSUm.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\8.MaximalSUm\bin\Debug\8.MaximalSUm.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\8.MaximalSUm\obj\x86\Debug\8.MaximalSUm.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\8.MaximalSUm\obj\x86\Debug\8.MaximalSUm.pdb

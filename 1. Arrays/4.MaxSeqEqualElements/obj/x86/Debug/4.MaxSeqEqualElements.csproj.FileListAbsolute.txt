@@ -1,0 +1,8 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\4.MaxSeqEqualElements\bin\Debug\4.MaxSeqEqualElements.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\4.MaxSeqEqualElements\bin\Debug\4.MaxSeqEqualElements.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\4.MaxSeqEqualElements\obj\x86\Debug\4.MaxSeqEqualElements.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\4.MaxSeqEqualElements\obj\x86\Debug\4.MaxSeqEqualElements.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\1. Arrays\4.MaxSeqEqualElements\obj\x86\Debug\4.MaxSeqEqualElements.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\1. Arrays\4.MaxSeqEqualElements\obj\x86\Debug\4.MaxSeqEqualElements.pdb
+D:\Downloads\GitHub\C-Sharp-part-2\1. Arrays\4.MaxSeqEqualElements\obj\x86\Debug\4.MaxSeqEqualElements.exe
+D:\Downloads\GitHub\C-Sharp-part-2\1. Arrays\4.MaxSeqEqualElements\obj\x86\Debug\4.MaxSeqEqualElements.pdb

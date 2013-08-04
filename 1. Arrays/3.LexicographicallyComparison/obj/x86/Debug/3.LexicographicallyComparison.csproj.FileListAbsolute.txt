@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\3.LexicographicallyComparison\bin\Debug\3.LexicographicallyComparison.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\3.LexicographicallyComparison\bin\Debug\3.LexicographicallyComparison.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\3.LexicographicallyComparison\obj\x86\Debug\3.LexicographicallyComparison.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\3.LexicographicallyComparison\obj\x86\Debug\3.LexicographicallyComparison.pdb

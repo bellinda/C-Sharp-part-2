@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\7.SelectionSort\bin\Debug\7.SelectionSort.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\7.SelectionSort\bin\Debug\7.SelectionSort.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\7.SelectionSort\obj\x86\Debug\7.SelectionSort.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\7.SelectionSort\obj\x86\Debug\7.SelectionSort.pdb

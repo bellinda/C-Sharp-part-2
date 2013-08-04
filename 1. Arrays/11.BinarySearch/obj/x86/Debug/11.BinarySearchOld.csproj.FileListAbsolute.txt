@@ -1,0 +1,2 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\11.BinarySearch\obj\x86\Debug\11.BinarySearch.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\11.BinarySearch\obj\x86\Debug\11.BinarySearch.pdb

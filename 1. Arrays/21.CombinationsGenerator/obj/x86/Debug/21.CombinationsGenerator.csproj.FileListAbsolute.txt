@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\21.CombinationsGenerator\bin\Debug\21.CombinationsGenerator.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\21.CombinationsGenerator\bin\Debug\21.CombinationsGenerator.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\21.CombinationsGenerator\obj\x86\Debug\21.CombinationsGenerator.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\21.CombinationsGenerator\obj\x86\Debug\21.CombinationsGenerator.pdb

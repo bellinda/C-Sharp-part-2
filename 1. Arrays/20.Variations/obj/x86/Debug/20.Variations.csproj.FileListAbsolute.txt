@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\20.Variations\bin\Debug\20.Variations.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\20.Variations\bin\Debug\20.Variations.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\20.Variations\obj\x86\Debug\20.Variations.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\20.Variations\obj\x86\Debug\20.Variations.pdb

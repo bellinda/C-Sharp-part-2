@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\13.MergeSort\bin\Debug\13.MergeSort.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\13.MergeSort\bin\Debug\13.MergeSort.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\13.MergeSort\obj\x86\Debug\13.MergeSort.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\13.MergeSort\obj\x86\Debug\13.MergeSort.pdb

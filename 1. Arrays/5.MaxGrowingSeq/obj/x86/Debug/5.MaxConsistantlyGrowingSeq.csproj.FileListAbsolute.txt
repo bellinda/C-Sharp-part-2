@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\5.MaxGrowingSeq\obj\x86\Debug\5.MaxGrowingSeq.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\5.MaxGrowingSeq\obj\x86\Debug\5.MaxGrowingSeq.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\5.MaxGrowingSeq\bin\Debug\5.MaxGrowingSeq.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\5.MaxGrowingSeq\bin\Debug\5.MaxGrowingSeq.pdb

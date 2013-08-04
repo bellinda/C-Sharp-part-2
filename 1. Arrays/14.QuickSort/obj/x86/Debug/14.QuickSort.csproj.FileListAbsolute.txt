@@ -1,0 +1,5 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\14.QuickSort\bin\Debug\14.QuickSort.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\14.QuickSort\bin\Debug\14.QuickSort.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\14.QuickSort\obj\x86\Debug\14.QuickSort.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\14.QuickSort\obj\x86\Debug\14.QuickSort.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\14.QuickSort\obj\x86\Debug\14.QuickSort.csprojResolveAssemblyReference.cache

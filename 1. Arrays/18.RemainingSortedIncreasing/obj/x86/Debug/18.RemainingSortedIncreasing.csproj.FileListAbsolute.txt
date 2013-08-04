@@ -1,0 +1,5 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\18.RemainingSortedIncreasing\bin\Debug\18.RemainingSortedIncreasing.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\18.RemainingSortedIncreasing\bin\Debug\18.RemainingSortedIncreasing.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\18.RemainingSortedIncreasing\obj\x86\Debug\18.RemainingSortedIncreasing.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\18.RemainingSortedIncreasing\obj\x86\Debug\18.RemainingSortedIncreasing.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\18.RemainingSortedIncreasing\obj\x86\Debug\18.RemainingSortedIncreasing.csprojResolveAssemblyReference.cache

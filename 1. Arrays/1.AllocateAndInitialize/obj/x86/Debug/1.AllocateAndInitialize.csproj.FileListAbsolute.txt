@@ -1,0 +1,6 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\1.AllocateAndInitialize\bin\Debug\1.AllocateAndInitialize.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\1.AllocateAndInitialize\bin\Debug\1.AllocateAndInitialize.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\1.AllocateAndInitialize\obj\x86\Debug\1.AllocateAndInitialize.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\1.AllocateAndInitialize\obj\x86\Debug\1.AllocateAndInitialize.pdb
+D:\Downloads\GitHub\C-Sharp-part-2\1. Arrays\1.AllocateAndInitialize\obj\x86\Debug\1.AllocateAndInitialize.exe
+D:\Downloads\GitHub\C-Sharp-part-2\1. Arrays\1.AllocateAndInitialize\obj\x86\Debug\1.AllocateAndInitialize.pdb

@@ -1,0 +1,6 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\2.Read and compare\bin\Debug\2.Read and compare.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\2.Read and compare\bin\Debug\2.Read and compare.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\2.Read and compare\obj\x86\Debug\2.Read and compare.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\2.Read and compare\obj\x86\Debug\2.Read and compare.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\1. Arrays\2.Read and compare\obj\x86\Debug\2.Read and compare.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\1. Arrays\2.Read and compare\obj\x86\Debug\2.Read and compare.pdb

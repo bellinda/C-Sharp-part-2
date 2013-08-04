@@ -1,0 +1,5 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\17.SubsetOfKElements\bin\Debug\17.SubsetOfKElements.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\17.SubsetOfKElements\bin\Debug\17.SubsetOfKElements.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\17.SubsetOfKElements\obj\x86\Debug\17.SubsetOfKElements.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\17.SubsetOfKElements\obj\x86\Debug\17.SubsetOfKElements.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\17.SubsetOfKElements\obj\x86\Debug\17.SubsetOfKElements.csprojResolveAssemblyReference.cache

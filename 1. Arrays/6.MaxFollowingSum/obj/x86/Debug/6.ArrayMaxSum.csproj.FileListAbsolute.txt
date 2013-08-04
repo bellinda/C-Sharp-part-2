@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\7.MaxFollowingSum\bin\Debug\7.MaxFollowingSum.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\7.MaxFollowingSum\bin\Debug\7.MaxFollowingSum.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\7.MaxFollowingSum\obj\x86\Debug\7.MaxFollowingSum.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\7.MaxFollowingSum\obj\x86\Debug\7.MaxFollowingSum.pdb

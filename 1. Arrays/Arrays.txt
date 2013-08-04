@@ -1,0 +1,494 @@
+1.Allocate and initialize
+using System;
+    class AllocateAndInitialize
+    {
+        static void Main()
+        {
+            int[] array = new int[20];
+            for (int i = 0; i < 20; i++)
+            {
+                array[i] = i * 5;
+                Console.WriteLine(array[i]);
+            }
+        }
+    }
+	
+2.ReadAndCompare
+using System;
+    class ReadAndCompare
+    {
+        static void Main()
+        {
+            Console.Write("Lenght of the first array = ");
+            int n = int.Parse(Console.ReadLine());
+            int [] first = new int [n];
+            Console.WriteLine("Elements in the first array: ");
+            for (int i = 0; i < n; i++)
+            {
+                first[i] = int.Parse(Console.ReadLine());
+            }
+            Console.Write("Lenght of the second array = ");
+            int m = int.Parse(Console.ReadLine());
+            int[] second = new int[m];
+            Console.WriteLine("Elements of the second array: ");
+            for (int i = 0; i < m; i++)
+            {
+                second[i] = int.Parse(Console.ReadLine());
+            }
+            int k=0;
+            if (n == m)     //equal to first.Lenght == second.Lenght
+            {
+                while (k<n) 
+                {
+                    if (first[k] != second[k])
+                    {
+                        Console.WriteLine("The arrays are not equal.");
+                        break;
+                    }
+                    if ((k == n-1) && (first[k] == second[k]))
+                    {
+                        Console.WriteLine("Both arrays are equal.");
+                    }
+                    k++;
+                    if (k == n)
+                    {
+                        break;
+                    }
+                }
+            }
+                else
+                {
+                    Console.WriteLine("Both arrays have different lenght, so they are not equal.");
+                }
+        }
+    }
+	
+	
+3.LexicographicallyComparison
+using System;
+    class LexicographicallyComparison
+    {
+        static void Main()
+        {
+            Console.Write("Lenght of the first array = ");
+            int n = int.Parse(Console.ReadLine());
+            char[] first = new char[n];
+            Console.WriteLine("Elements in the first array: ");
+            for (int i = 0; i < n; i++)
+            {
+                first[i] = char.Parse(Console.ReadLine());
+            }
+            Console.Write("Lenght of the second array = ");
+            int m = int.Parse(Console.ReadLine());
+            char[] second = new char[m];
+            Console.WriteLine("Elements of the second array: ");
+            for (int i = 0; i < m; i++)
+            {
+                second[i] = char.Parse(Console.ReadLine());
+            }
+            bool result = true;
+            if (n == m)
+            {
+                for (int i = 0; i < n; i++)
+                {
+                    if (first[i] != second[i])
+                    {
+                        result = false;
+                    }
+                }
+            }
+            else
+            {
+                Console.WriteLine("The arrays are lexicographically uncomparebale, because their lenght is different.");
+            }
+            if (n == m)
+            {
+                Console.WriteLine("The char arrays are equal - {0}", result);
+            }
+        }
+    }
+
+	
+4.MaxSeqEqualElements
+using System;
+    class MaxSeqEqualElements
+    {
+        static void Main()
+        {
+            int maxindex = 0;
+            int k = 0;
+            int maxcount = 0;
+            int newlenght = 1;
+            int n = int.Parse(Console.ReadLine());
+            int[] array = new int[n];
+            int[] count = new int[n];
+            for (int i = 0; i < n; i++)
+            {
+                array[i] = int.Parse(Console.ReadLine());
+            }
+            for (int i = 0; i < (n-1); i++)
+            {
+                k = i;
+                while ((array[i] == array[i + 1])&&(i<(n-1)))
+                {
+                    newlenght++;
+                    i++;
+                    if (i >= n - 1)
+                    {
+                        break;
+                    }
+                }
+                i = k+(newlenght-1);
+                if (i != 0)
+                {
+                    count[i-1] = newlenght;           //za da moje da otchita pravilno, ako nai-dalgata poredica e v kraq na masiva
+                }
+                newlenght = 1;
+            }
+            for (int i = 0; i < (n-1); i++)
+            {
+                if ((count[i] > count[i + 1])&&(count[i]>maxcount))
+                {
+                    maxcount = count[i];
+                    maxindex = i;
+                }
+            }
+            Console.WriteLine();
+            Console.Write(maxcount + ": ");
+            for (int i = 0; i < maxcount; i++)
+            {
+                Console.Write(array[maxindex] + ", ");
+            }
+
+        }
+    }
+	
+	
+5.MaxConstantlyGrowingSeq
+using System;
+    class MaxConsistantlyGrowingSeq
+    {
+        static void Main()
+        {
+            int maxindex = 0;
+            int maxcount = 0;
+            int newlenght = 1;
+            int k = 0;
+            int n = int.Parse(Console.ReadLine());
+            int[] array = new int[n];
+            int[] count = new int[n];
+            for (int i = 0; i < n; i++)
+            {
+                array[i] = int.Parse(Console.ReadLine());
+            }
+            for (int i = 0; i < (n - 1); i++)
+            {
+                k = i;
+                while ((array[i] + 1 == array[i + 1])&&(i<(n-1)))
+                {
+                    newlenght++;
+                    i++;
+                    if (i >= n - 1)
+                    {
+                        break;
+                    }
+                }
+                i = k+(newlenght-1);
+                if (i != 0)
+                {
+                    count[i-1] = newlenght;           //za da moje da otchita pravilno, ako nai-dalgata poredica e v kraq na masiva
+                }
+                newlenght = 1;
+             }
+            for (int i = 0; i < (n - 1); i++)
+            {
+                if ((count[i] > count[i + 1]) && (count[i] > maxcount))
+                {
+                    maxcount = count[i];
+                    maxindex = i;
+                }
+            }
+            Console.WriteLine();
+            Console.Write(maxcount + ": ");
+            for (int i = maxcount-2; i >= -1; i--)
+            {
+                Console.Write(array[maxindex-i] + ", ");
+            }
+            Console.Write("\b");
+            Console.Write("\b");
+            Console.Write(" ");
+        }
+   }
+   
+   
+6.ArrayMaxSum
+
+using System;
+    class ArrayMaxSum
+    {
+        static void Main()
+        {
+            int maxSum = 0;
+            int j = 0;
+            Console.Write("N = ");
+            int N = int.Parse(Console.ReadLine());
+            Console.Write("K = ");
+            int K = int.Parse(Console.ReadLine());
+            int[] arr = new int[N];
+            int[] sum = new int[N];
+            for (int i = 0; i < N; i++)
+            {
+                arr[i] = int.Parse(Console.ReadLine());
+            }
+            for (int i = 0; i < N-(K-1); i++)
+            {
+                for (int k = 1; k <= K; k++)
+                {
+                    sum[i] += arr[j];
+                    j++;
+                    
+                }
+                j = j - (K-1);
+            }
+            for (int i = 0; i < (N-(K-1)); i++)
+            {
+                if ((sum[i] > sum[i + 1]) && (maxSum<sum[i]))
+                {
+                    maxSum = sum[i];
+                }
+            }
+            Console.WriteLine("Maximum sum of {0} elements = {1}", K, maxSum);
+        }
+    }
+
+	
+	
+7.SelectionSort
+using System;
+using System.Collections.Generic;
+using System.Linq;
+    class SelectionSort
+    {
+        static void Main()
+        {
+            Console.Write("How many elemnts do you want to have in your list? ");
+            int N = int.Parse(Console.ReadLine());
+            List<int> toBeSorted = new List<int>();
+            List<int> sorted = new List<int>();
+            for (int i = 0; i < N; i++)
+            {
+                int k = int.Parse(Console.ReadLine());
+                toBeSorted.Add(k);
+            }
+
+            //First version:
+
+            for (int i = 0; i < N; i++)
+            {
+                sorted.Add(toBeSorted.Min());
+                toBeSorted.Remove(toBeSorted.Min());
+            }
+            for (int i = 0; i < N; i++)
+            {
+                Console.WriteLine(sorted[i]);
+            }
+
+            //Second version:
+
+            toBeSorted.Sort();
+            for (int i = 0; i < N; i++)
+            {
+                Console.WriteLine(toBeSorted[i]);
+            }
+        }
+    }
+	
+	
+8.MaximalSum
+using System;
+using System.Collections.Generic;
+    class MaximalSum
+    {
+        static void Main()
+        {
+            int count = 0;
+            int p = 1;
+            int k = 0;
+            int result = int.MinValue;
+            int sum = 0;
+            int startIndex = 0;
+            int endIndex = 0;
+            List<int> startIndexes = new List<int>();
+            List<int> endIndexes = new List<int>();
+            List<int> sums = new List<int>();
+            List<int> numbers = new List<int>();
+            Console.Write("How many numbers will you type in? ");
+            int n = int.Parse(Console.ReadLine());
+            for (int i = 0; i < n; i++)
+            {
+                int m = int.Parse(Console.ReadLine());
+                numbers.Add(m);
+            }
+            int s = 1;
+            sum = numbers[0];
+            startIndexes.Add(k);
+            sums.Add(0);
+            do
+            {
+                sum += numbers[p];
+                sums.Add(sum);
+                if (sum > result)
+                {
+                    result = sum;
+                    startIndex = k;
+                    endIndex = p;
+                }
+                p++;
+                count++;
+                if (p == n)
+                {
+                    if (k != (n - 1))
+                    {
+                        sum = numbers[++k];
+                        startIndexes.Add(k);
+                    }
+                    p = p - count + 1;
+                    count = 0;
+                }
+            }
+            while((p<n)&&(p>=0));
+            Console.WriteLine("Start index = {0} and End index = {1}, result = {2}", startIndex, endIndex, result);
+            Console.Write("The sequence of maximal sum is: ");
+            for (int i = startIndex; i <= endIndex; i++)
+            {
+                Console.Write(numbers[i] + ", ");
+            }
+            Console.Write("\b");
+            Console.Write("\b");
+            Console.Write("\t");
+        }
+    }
+
+	
+9.MostFrequentNumber
+
+using System;
+    class MostFrequentNumber
+    {
+        static void Main()
+        {
+            Console.WriteLine("Enter the number of he digits in your array: ");
+            int n = int.Parse(Console.ReadLine());
+            int[] array = new int[n];
+            int[] count = new int[n];
+            int counter = 1;
+            int maxcount = 0;
+            int maxindex = 0;
+            int number = 0;
+
+            for (int i = 0; i < n; i++)
+            {
+                array[i] = int.Parse(Console.ReadLine());
+            }
+            int k = 1;
+            for (int i = 0; i < n-1; i++)
+            {
+                    do
+                    {
+                        if((array[i] == array[k])&&(k!=i))
+                        {
+                            counter++;
+                        }
+                        k++;
+                    }
+                    while(k<n);
+                    k = 1;
+                count[i] = counter;
+                counter = 1;
+            }
+            for (int i = 0; i < n-1; i++)
+            {
+                if (maxcount < count[i])
+                {
+                    maxcount = count[i];
+                    maxindex = i;
+                    number = array[i];
+                }
+            }
+            Console.WriteLine("The number {0} is the most frequent number with frequence = {1}.", number, maxcount);
+
+        }
+    }
+	
+	
+10.FindGivenSum
+
+using System;
+using System.Collections.Generic;
+    class FindGivenSum
+    {
+        static void Main()
+        {
+            Console.Write("How long array: ");
+            int n = int.Parse(Console.ReadLine());
+            Console.Write("Whitch sum do you want to look for? ");
+            int S = int.Parse(Console.ReadLine());
+            List<int> sums = new List<int>();
+            int sum = 0;
+            int startIndex = 0;
+            int endIndex = 0;
+            int k = 0;
+            int p = 1;
+            int count = 0;
+            int[] arr = new int[n];
+            for (int i = 0; i < n; i++)
+            {
+                arr[i] = int.Parse(Console.ReadLine());
+            }
+
+            sum = arr[0];
+            sums.Add(0);
+            do
+            {
+                sum += arr[p];
+                sums.Add(sum);
+                if (sum == S)
+                {
+                    startIndex = k;
+                    endIndex = p;
+                }
+                p++;
+                count++;
+                if (p == n)
+                {
+                    if (k != (n - 1))
+                    {
+                        sum = arr[++k];
+                    }
+                    p = p - count + 1;
+                    count = 0;
+                }
+            }
+            while ((p < n) && (p >= 0));
+            if (sums.Contains(S))
+            {
+                Console.Write("The sequence with sum S = {0} is: ", S);
+                for (int i = startIndex; i <= endIndex; i++)
+                {
+                    Console.Write(arr[i] + ", ");
+                }
+                Console.Write("\b");
+                Console.Write("\b");
+                Console.Write("\t");
+            }
+            else
+            {
+                Console.WriteLine("There is no sequence in this array, whitch sum is S = {0}.", S);
+            }
+
+        }
+ 
+    }
+	
+	
+11.

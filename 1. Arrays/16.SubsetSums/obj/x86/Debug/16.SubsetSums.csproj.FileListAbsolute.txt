@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\16.SubsetSums\bin\Debug\16.SubsetSums.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\16.SubsetSums\bin\Debug\16.SubsetSums.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\16.SubsetSums\obj\x86\Debug\16.SubsetSums.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\16.SubsetSums\obj\x86\Debug\16.SubsetSums.pdb

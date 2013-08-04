@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\15.PrimeNumbers\obj\x86\Debug\15.PrimeNumbers.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\15.PrimeNumbers\obj\x86\Debug\15.PrimeNumbers.pdb

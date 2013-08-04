@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\12.IndexOfLetter\bin\Debug\12.IndexOfLetter.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\12.IndexOfLetter\bin\Debug\12.IndexOfLetter.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\12.IndexOfLetter\obj\x86\Debug\12.IndexOfLetter.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\12.IndexOfLetter\obj\x86\Debug\12.IndexOfLetter.pdb
