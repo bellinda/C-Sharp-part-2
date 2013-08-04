@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\10.FindGivenSum\bin\Debug\10.FindGivenSum.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\10.FindGivenSum\bin\Debug\10.FindGivenSum.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\10.FindGivenSum\obj\x86\Debug\10.FindGivenSum.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\1. Arrays\10.FindGivenSum\obj\x86\Debug\10.FindGivenSum.pdb
