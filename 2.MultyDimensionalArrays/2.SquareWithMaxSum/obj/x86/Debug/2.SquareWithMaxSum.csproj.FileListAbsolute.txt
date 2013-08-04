@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\2.SquareWithMaxSum\bin\Debug\2.SquareWithMaxSum.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\2.SquareWithMaxSum\bin\Debug\2.SquareWithMaxSum.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\2.SquareWithMaxSum\obj\x86\Debug\2.SquareWithMaxSum.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\2.SquareWithMaxSum\obj\x86\Debug\2.SquareWithMaxSum.pdb

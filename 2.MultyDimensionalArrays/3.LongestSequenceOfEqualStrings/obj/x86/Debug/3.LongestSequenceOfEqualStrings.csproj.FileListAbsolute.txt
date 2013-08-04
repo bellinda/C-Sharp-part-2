@@ -1,0 +1,6 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\3.LongestSequenceOfEqualStrings\bin\Debug\3.LongestSequenceOfEqualStrings.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\3.LongestSequenceOfEqualStrings\bin\Debug\3.LongestSequenceOfEqualStrings.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\3.LongestSequenceOfEqualStrings\obj\x86\Debug\3.LongestSequenceOfEqualStrings.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\3.LongestSequenceOfEqualStrings\obj\x86\Debug\3.LongestSequenceOfEqualStrings.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\2.MultyDimensionalArrays\3.LongestSequenceOfEqualStrings\obj\x86\Debug\3.LongestSequenceOfEqualStrings.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\2.MultyDimensionalArrays\3.LongestSequenceOfEqualStrings\obj\x86\Debug\3.LongestSequenceOfEqualStrings.pdb

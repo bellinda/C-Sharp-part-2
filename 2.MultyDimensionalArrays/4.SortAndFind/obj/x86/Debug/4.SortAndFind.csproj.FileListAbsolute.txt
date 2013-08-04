@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\4.SortAndFind\bin\Debug\4.SortAndFind.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\4.SortAndFind\bin\Debug\4.SortAndFind.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\4.SortAndFind\obj\x86\Debug\4.SortAndFind.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\4.SortAndFind\obj\x86\Debug\4.SortAndFind.pdb

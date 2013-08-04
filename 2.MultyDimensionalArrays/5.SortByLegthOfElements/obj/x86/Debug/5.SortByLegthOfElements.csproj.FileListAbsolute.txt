@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\5.SortByLegthOfElements\bin\Debug\5.SortByLegthOfElements.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\5.SortByLegthOfElements\bin\Debug\5.SortByLegthOfElements.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\5.SortByLegthOfElements\obj\x86\Debug\5.SortByLegthOfElements.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\5.SortByLegthOfElements\obj\x86\Debug\5.SortByLegthOfElements.pdb

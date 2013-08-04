@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\1a.FillAndPrintMatrix\bin\Debug\1a.FillAndPrintMatrix.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\1a.FillAndPrintMatrix\bin\Debug\1a.FillAndPrintMatrix.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\1a.FillAndPrintMatrix\obj\x86\Debug\1a.FillAndPrintMatrix.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\1a.FillAndPrintMatrix\obj\x86\Debug\1a.FillAndPrintMatrix.pdb

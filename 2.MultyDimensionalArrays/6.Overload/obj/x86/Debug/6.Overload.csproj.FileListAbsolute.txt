@@ -1,0 +1,7 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\6.Overload\obj\x86\Debug\6.Overload.csprojResolveAssemblyReference.cache
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\6.Overload\bin\Debug\6.Overload.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\6.Overload\bin\Debug\6.Overload.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\6.Overload\obj\x86\Debug\6.Overload.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\MultyDimensionalArrays\6.Overload\obj\x86\Debug\6.Overload.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\2.MultyDimensionalArrays\6.Overload\obj\x86\Debug\6.Overload.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\2.MultyDimensionalArrays\6.Overload\obj\x86\Debug\6.Overload.pdb
