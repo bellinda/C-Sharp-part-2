@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\5.HexadecimalToBinary\bin\Debug\5.HexadecimalToBinary.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\5.HexadecimalToBinary\bin\Debug\5.HexadecimalToBinary.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\5.HexadecimalToBinary\obj\x86\Debug\5.HexadecimalToBinary.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\5.HexadecimalToBinary\obj\x86\Debug\5.HexadecimalToBinary.pdb

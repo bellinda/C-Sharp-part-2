@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\3.DecimalToHexadecimal\bin\Debug\3.DecimalToHexadecimal.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\3.DecimalToHexadecimal\bin\Debug\3.DecimalToHexadecimal.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\3.DecimalToHexadecimal\obj\x86\Debug\3.DecimalToHexadecimal.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\3.DecimalToHexadecimal\obj\x86\Debug\3.DecimalToHexadecimal.pdb

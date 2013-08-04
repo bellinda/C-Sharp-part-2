@@ -1,0 +1,5 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\9.InternalBinaryRepresentationFloat\bin\Debug\9.InternalBinaryRepresentationFloat.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\9.InternalBinaryRepresentationFloat\bin\Debug\9.InternalBinaryRepresentationFloat.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\9.InternalBinaryRepresentationFloat\obj\x86\Debug\9.InternalBinaryRepresentationFloat.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\9.InternalBinaryRepresentationFloat\obj\x86\Debug\9.InternalBinaryRepresentationFloat.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\9.InternalBinaryRepresentationFloat\obj\x86\Debug\9.InternalBinaryRepresentationFloat.csprojResolveAssemblyReference.cache

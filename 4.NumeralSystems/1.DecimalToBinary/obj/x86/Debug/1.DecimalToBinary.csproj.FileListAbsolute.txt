@@ -1,0 +1,5 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\1.DecimalToBinary\bin\Debug\1.DecimalToBinary.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\1.DecimalToBinary\bin\Debug\1.DecimalToBinary.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\1.DecimalToBinary\obj\x86\Debug\1.DecimalToBinary.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\1.DecimalToBinary\obj\x86\Debug\1.DecimalToBinary.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\1.DecimalToBinary\obj\x86\Debug\1.DecimalToBinary.csprojResolveAssemblyReference.cache

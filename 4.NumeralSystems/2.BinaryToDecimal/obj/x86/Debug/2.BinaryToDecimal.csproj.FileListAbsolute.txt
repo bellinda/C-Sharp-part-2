@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\2.BinaryToDecimal\bin\Debug\2.BinaryToDecimal.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\2.BinaryToDecimal\bin\Debug\2.BinaryToDecimal.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\2.BinaryToDecimal\obj\x86\Debug\2.BinaryToDecimal.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\2.BinaryToDecimal\obj\x86\Debug\2.BinaryToDecimal.pdb

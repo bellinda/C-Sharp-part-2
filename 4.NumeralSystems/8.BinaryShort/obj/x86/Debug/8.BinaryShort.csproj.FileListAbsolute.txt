@@ -1,0 +1,5 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\8.BinaryShort\bin\Debug\8.BinaryShort.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\8.BinaryShort\bin\Debug\8.BinaryShort.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\8.BinaryShort\obj\x86\Debug\8.BinaryShort.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\8.BinaryShort\obj\x86\Debug\8.BinaryShort.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\8.BinaryShort\obj\x86\Debug\8.BinaryShort.csprojResolveAssemblyReference.cache

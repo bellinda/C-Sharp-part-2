@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\7.AnyNumeralSystem\bin\Debug\7.AnyNumeralSystem.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\7.AnyNumeralSystem\bin\Debug\7.AnyNumeralSystem.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\7.AnyNumeralSystem\obj\x86\Debug\7.AnyNumeralSystem.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\7.AnyNumeralSystem\obj\x86\Debug\7.AnyNumeralSystem.pdb

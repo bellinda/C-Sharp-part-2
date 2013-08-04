@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\4.HexadecimalToDecimal\bin\Debug\4.HexadecimalToDecimal.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\4.HexadecimalToDecimal\bin\Debug\4.HexadecimalToDecimal.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\4.HexadecimalToDecimal\obj\x86\Debug\4.HexadecimalToDecimal.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\4.NumeralSystems\4.HexadecimalToDecimal\obj\x86\Debug\4.HexadecimalToDecimal.pdb
