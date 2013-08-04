@@ -1,0 +1,5 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\10.Faktorial\bin\Debug\10.Faktorial.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\10.Faktorial\bin\Debug\10.Faktorial.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\10.Faktorial\obj\x86\Debug\10.Faktorial.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\10.Faktorial\obj\x86\Debug\10.Faktorial.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\10.Faktorial\obj\x86\Debug\10.Faktorial.csprojResolveAssemblyReference.cache

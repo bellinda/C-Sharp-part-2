@@ -1,0 +1,8 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\3.LastDigitAsAWord\bin\Debug\3.LastDigitAsAWord.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\3.LastDigitAsAWord\bin\Debug\3.LastDigitAsAWord.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\3.LastDigitAsAWord\obj\x86\Debug\3.LastDigitAsAWord.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\3.LastDigitAsAWord\obj\x86\Debug\3.LastDigitAsAWord.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\3.LastDigitAsAWord\obj\x86\Debug\3.LastDigitAsAWord.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\3.LastDigitAsAWord\obj\x86\Debug\3.LastDigitAsAWord.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\3.LastDigitAsAWord\bin\Debug\3.LastDigitAsAWord.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\3.LastDigitAsAWord\bin\Debug\3.LastDigitAsAWord.pdb

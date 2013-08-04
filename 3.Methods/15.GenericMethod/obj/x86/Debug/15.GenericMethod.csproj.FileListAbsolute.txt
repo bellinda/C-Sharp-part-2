@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\15.GenericMethod\bin\Debug\15.GenericMethod.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\15.GenericMethod\bin\Debug\15.GenericMethod.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\15.GenericMethod\obj\x86\Debug\15.GenericMethod.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\15.GenericMethod\obj\x86\Debug\15.GenericMethod.pdb

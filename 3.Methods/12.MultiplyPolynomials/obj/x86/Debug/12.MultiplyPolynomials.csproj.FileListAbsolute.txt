@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\12.MultiplyPolynomials\bin\Debug\12.MultiplyPolynomials.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\12.MultiplyPolynomials\bin\Debug\12.MultiplyPolynomials.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\12.MultiplyPolynomials\obj\x86\Debug\12.MultiplyPolynomials.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\12.MultiplyPolynomials\obj\x86\Debug\12.MultiplyPolynomials.pdb

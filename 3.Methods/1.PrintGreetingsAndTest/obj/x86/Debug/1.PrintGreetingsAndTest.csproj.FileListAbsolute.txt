@@ -1,0 +1,8 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\1.PrintGreetingsAndTest\bin\Debug\1.PrintGreetingsAndTest.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\1.PrintGreetingsAndTest\bin\Debug\1.PrintGreetingsAndTest.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\1.PrintGreetingsAndTest\obj\x86\Debug\1.PrintGreetingsAndTest.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\1.PrintGreetingsAndTest\obj\x86\Debug\1.PrintGreetingsAndTest.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\1.PrintGreetingsAndTest\obj\x86\Debug\1.PrintGreetingsAndTest.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\1.PrintGreetingsAndTest\obj\x86\Debug\1.PrintGreetingsAndTest.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\1.PrintGreetingsAndTest\bin\Debug\1.PrintGreetingsAndTest.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\1.PrintGreetingsAndTest\bin\Debug\1.PrintGreetingsAndTest.pdb

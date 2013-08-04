@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\2.GetMax\bin\Debug\2.GetMax.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\2.GetMax\bin\Debug\2.GetMax.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\2.GetMax\obj\x86\Debug\2.GetMax.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\2.GetMax\obj\x86\Debug\2.GetMax.pdb

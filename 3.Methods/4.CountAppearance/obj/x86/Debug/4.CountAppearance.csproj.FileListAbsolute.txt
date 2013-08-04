@@ -1,0 +1,8 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\4.CountAppearance\bin\Debug\4.CountAppearance.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\4.CountAppearance\bin\Debug\4.CountAppearance.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\4.CountAppearance\obj\x86\Debug\4.CountAppearance.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\4.CountAppearance\obj\x86\Debug\4.CountAppearance.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\4.CountAppearance\bin\Debug\4.CountAppearance.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\4.CountAppearance\bin\Debug\4.CountAppearance.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\4.CountAppearance\obj\x86\Debug\4.CountAppearance.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\4.CountAppearance\obj\x86\Debug\4.CountAppearance.pdb

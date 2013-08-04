@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\11.AddingPolynoms\bin\Debug\11.AddingPolynoms.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\11.AddingPolynoms\bin\Debug\11.AddingPolynoms.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\11.AddingPolynoms\obj\x86\Debug\11.AddingPolynoms.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\11.AddingPolynoms\obj\x86\Debug\11.AddingPolynoms.pdb

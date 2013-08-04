@@ -1,0 +1,5 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\13.SolveThreeTasks\bin\Debug\13.SolveThreeTasks.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\13.SolveThreeTasks\bin\Debug\13.SolveThreeTasks.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\13.SolveThreeTasks\obj\x86\Debug\13.SolveThreeTasks.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\13.SolveThreeTasks\obj\x86\Debug\13.SolveThreeTasks.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\13.SolveThreeTasks\obj\x86\Debug\13.SolveThreeTasks.csprojResolveAssemblyReference.cache

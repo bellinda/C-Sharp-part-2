@@ -1,0 +1,8 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\8.AddToPositiveIntegerAsArrays\bin\Debug\8.AddToPositiveIntegerAsArrays.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\8.AddToPositiveIntegerAsArrays\bin\Debug\8.AddToPositiveIntegerAsArrays.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\8.AddToPositiveIntegerAsArrays\obj\x86\Debug\8.AddToPositiveIntegerAsArrays.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\8.AddToPositiveIntegerAsArrays\obj\x86\Debug\8.AddToPositiveIntegerAsArrays.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\8.AddToPositiveIntegerAsArrays\obj\x86\Debug\8.AddToPositiveIntegerAsArrays.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\8.AddToPositiveIntegerAsArrays\obj\x86\Debug\8.AddToPositiveIntegerAsArrays.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\8.AddToPositiveIntegerAsArrays\bin\Debug\8.AddToPositiveIntegerAsArrays.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\8.AddToPositiveIntegerAsArrays\bin\Debug\8.AddToPositiveIntegerAsArrays.pdb

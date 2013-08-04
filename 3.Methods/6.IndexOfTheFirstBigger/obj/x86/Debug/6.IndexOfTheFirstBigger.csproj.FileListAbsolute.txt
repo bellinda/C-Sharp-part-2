@@ -1,0 +1,8 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\6.IndexOfTheFirstBigger\bin\Debug\6.IndexOfTheFirstBigger.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\6.IndexOfTheFirstBigger\bin\Debug\6.IndexOfTheFirstBigger.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\6.IndexOfTheFirstBigger\obj\x86\Debug\6.IndexOfTheFirstBigger.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\3.Methods\6.IndexOfTheFirstBigger\obj\x86\Debug\6.IndexOfTheFirstBigger.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\6.IndexOfTheFirstBigger\bin\Debug\6.IndexOfTheFirstBigger.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\6.IndexOfTheFirstBigger\bin\Debug\6.IndexOfTheFirstBigger.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\6.IndexOfTheFirstBigger\obj\x86\Debug\6.IndexOfTheFirstBigger.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\6.IndexOfTheFirstBigger\obj\x86\Debug\6.IndexOfTheFirstBigger.pdb

@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\14.ProceduresOnSetOfIntegers\bin\Debug\14.ProceduresOnSetOfIntegers.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\14.ProceduresOnSetOfIntegers\bin\Debug\14.ProceduresOnSetOfIntegers.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\14.ProceduresOnSetOfIntegers\obj\x86\Debug\14.ProceduresOnSetOfIntegers.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\14.ProceduresOnSetOfIntegers\obj\x86\Debug\14.ProceduresOnSetOfIntegers.pdb

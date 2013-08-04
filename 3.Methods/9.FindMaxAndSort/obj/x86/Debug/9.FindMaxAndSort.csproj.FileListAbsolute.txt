@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\9.FindMaxAndSort\bin\Debug\9.FindMaxAndSort.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\9.FindMaxAndSort\bin\Debug\9.FindMaxAndSort.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\9.FindMaxAndSort\obj\x86\Debug\9.FindMaxAndSort.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\3.Methods\9.FindMaxAndSort\obj\x86\Debug\9.FindMaxAndSort.pdb
