@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\5.ClassesAndObjects\5.WorkdaysBetweenTodayAndGivenDate\bin\Debug\5.WorkdaysBetweenTodayAndGivenDate.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\5.ClassesAndObjects\5.WorkdaysBetweenTodayAndGivenDate\bin\Debug\5.WorkdaysBetweenTodayAndGivenDate.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\5.ClassesAndObjects\5.WorkdaysBetweenTodayAndGivenDate\obj\x86\Debug\5.WorkdaysBetweenTodayAndGivenDate.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\5.ClassesAndObjects\5.WorkdaysBetweenTodayAndGivenDate\obj\x86\Debug\5.WorkdaysBetweenTodayAndGivenDate.pdb

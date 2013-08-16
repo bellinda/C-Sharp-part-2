@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\2.EnterIntInGivenRange\bin\Debug\2.EnterIntInGivenRange.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\2.EnterIntInGivenRange\bin\Debug\2.EnterIntInGivenRange.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\2.EnterIntInGivenRange\obj\x86\Debug\2.EnterIntInGivenRange.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\2.EnterIntInGivenRange\obj\x86\Debug\2.EnterIntInGivenRange.pdb

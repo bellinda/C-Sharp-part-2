@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\1.SquareRoot\bin\Debug\1.SquareRoot.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\1.SquareRoot\bin\Debug\1.SquareRoot.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\1.SquareRoot\obj\x86\Debug\1.SquareRoot.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\1.SquareRoot\obj\x86\Debug\1.SquareRoot.pdb

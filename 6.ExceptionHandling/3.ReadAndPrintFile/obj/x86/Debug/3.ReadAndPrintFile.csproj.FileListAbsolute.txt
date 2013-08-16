@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\3.ReadAndPrintFile\bin\Debug\3.ReadAndPrintFile.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\3.ReadAndPrintFile\bin\Debug\3.ReadAndPrintFile.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\3.ReadAndPrintFile\obj\x86\Debug\3.ReadAndPrintFile.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\3.ReadAndPrintFile\obj\x86\Debug\3.ReadAndPrintFile.pdb

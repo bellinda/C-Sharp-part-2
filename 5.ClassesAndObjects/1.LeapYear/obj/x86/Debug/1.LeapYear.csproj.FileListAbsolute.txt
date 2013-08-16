@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\5.ClassesAndObjects\1.LeapYear\bin\Debug\1.LeapYear.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\5.ClassesAndObjects\1.LeapYear\bin\Debug\1.LeapYear.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\5.ClassesAndObjects\1.LeapYear\obj\x86\Debug\1.LeapYear.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\5.ClassesAndObjects\1.LeapYear\obj\x86\Debug\1.LeapYear.pdb

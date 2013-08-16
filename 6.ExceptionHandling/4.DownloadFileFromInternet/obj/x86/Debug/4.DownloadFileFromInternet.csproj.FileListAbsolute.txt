@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\4.DownloadFileFromInternet\bin\Debug\4.DownloadFileFromInternet.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\4.DownloadFileFromInternet\bin\Debug\4.DownloadFileFromInternet.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\4.DownloadFileFromInternet\obj\x86\Debug\4.DownloadFileFromInternet.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\6.ExceptionHandling\4.DownloadFileFromInternet\obj\x86\Debug\4.DownloadFileFromInternet.pdb
