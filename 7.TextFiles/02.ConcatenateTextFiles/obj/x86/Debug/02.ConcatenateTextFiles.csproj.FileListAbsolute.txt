@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\02.ConcatenateTextFiles\obj\x86\Debug\02.ConcatenateTextFiles.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\02.ConcatenateTextFiles\obj\x86\Debug\02.ConcatenateTextFiles.pdb

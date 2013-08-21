@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\07.ReplaceOccurrencesInTextFile\bin\Debug\07.ReplaceOccurrencesInTextFile.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\07.ReplaceOccurrencesInTextFile\bin\Debug\07.ReplaceOccurrencesInTextFile.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\07.ReplaceOccurrencesInTextFile\obj\x86\Debug\07.ReplaceOccurrencesInTextFile.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\07.ReplaceOccurrencesInTextFile\obj\x86\Debug\07.ReplaceOccurrencesInTextFile.pdb

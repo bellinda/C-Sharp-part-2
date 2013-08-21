@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\06.SortStringsAndSave\bin\Debug\06.SortStringsAndSave.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\06.SortStringsAndSave\bin\Debug\06.SortStringsAndSave.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\06.SortStringsAndSave\obj\x86\Debug\06.SortStringsAndSave.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\06.SortStringsAndSave\obj\x86\Debug\06.SortStringsAndSave.pdb

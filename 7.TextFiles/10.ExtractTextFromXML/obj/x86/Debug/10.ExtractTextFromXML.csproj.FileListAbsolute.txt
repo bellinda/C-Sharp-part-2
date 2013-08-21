@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\10.ExtractTextFromXML\obj\x86\Debug\10.ExtractTextFromXML.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\10.ExtractTextFromXML\obj\x86\Debug\10.ExtractTextFromXML.pdb

@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\01.ReadAndPrintOddLines\bin\Debug\01.ReadAndPrintOddLines.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\01.ReadAndPrintOddLines\bin\Debug\01.ReadAndPrintOddLines.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\01.ReadAndPrintOddLines\obj\x86\Debug\01.ReadAndPrintOddLines.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\01.ReadAndPrintOddLines\obj\x86\Debug\01.ReadAndPrintOddLines.pdb

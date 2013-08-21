@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\04.CompareFiles\bin\Debug\04.CompareFiles.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\04.CompareFiles\bin\Debug\04.CompareFiles.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\04.CompareFiles\obj\x86\Debug\04.CompareFiles.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\04.CompareFiles\obj\x86\Debug\04.CompareFiles.pdb

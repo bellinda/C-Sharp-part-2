@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\03.InsertLineNumbersInAFile\bin\Debug\03.InsertLineNumbersInAFile.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\03.InsertLineNumbersInAFile\bin\Debug\03.InsertLineNumbersInAFile.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\03.InsertLineNumbersInAFile\obj\x86\Debug\03.InsertLineNumbersInAFile.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\03.InsertLineNumbersInAFile\obj\x86\Debug\03.InsertLineNumbersInAFile.pdb

@@ -1,0 +1,5 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\13.OccurrenceOfWords\bin\Debug\13.OccurrenceOfWords.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\13.OccurrenceOfWords\bin\Debug\13.OccurrenceOfWords.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\13.OccurrenceOfWords\obj\x86\Debug\13.OccurrenceOfWords.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\13.OccurrenceOfWords\obj\x86\Debug\13.OccurrenceOfWords.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\13.OccurrenceOfWords\obj\x86\Debug\13.OccurrenceOfWords.csprojResolveAssemblyReference.cache

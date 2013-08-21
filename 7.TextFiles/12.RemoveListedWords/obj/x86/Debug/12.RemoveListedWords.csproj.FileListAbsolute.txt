@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\12.RemoveListedWords\bin\Debug\12.RemoveListedWords.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\12.RemoveListedWords\bin\Debug\12.RemoveListedWords.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\12.RemoveListedWords\obj\x86\Debug\12.RemoveListedWords.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\12.RemoveListedWords\obj\x86\Debug\12.RemoveListedWords.pdb

@@ -1,0 +1,5 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\11.DeleteWordsWithPrefix\bin\Debug\11.DeleteWordsWithPrefix.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\11.DeleteWordsWithPrefix\bin\Debug\11.DeleteWordsWithPrefix.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\11.DeleteWordsWithPrefix\obj\x86\Debug\11.DeleteWordsWithPrefix.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\11.DeleteWordsWithPrefix\obj\x86\Debug\11.DeleteWordsWithPrefix.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\11.DeleteWordsWithPrefix\obj\x86\Debug\11.DeleteWordsWithPrefix.csprojResolveAssemblyReference.cache

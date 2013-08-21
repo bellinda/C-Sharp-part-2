@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\08.ReplaceWholeWords\bin\Debug\08.ReplaceWholeWords.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\08.ReplaceWholeWords\bin\Debug\08.ReplaceWholeWords.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\08.ReplaceWholeWords\obj\x86\Debug\08.ReplaceWholeWords.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\08.ReplaceWholeWords\obj\x86\Debug\08.ReplaceWholeWords.pdb

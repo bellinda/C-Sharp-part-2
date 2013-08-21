@@ -1,0 +1,2 @@
+I'm the first file and I tell you "Hi!" :)
+I'm the second file and I don't wanna speak with you, so Good bye! :@

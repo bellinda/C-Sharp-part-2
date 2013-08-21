@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\05.MatrixFromFile\bin\Debug\05.MatrixFromFile.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\05.MatrixFromFile\bin\Debug\05.MatrixFromFile.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\05.MatrixFromFile\obj\x86\Debug\05.MatrixFromFile.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\7.TextFiles\05.MatrixFromFile\obj\x86\Debug\05.MatrixFromFile.pdb
