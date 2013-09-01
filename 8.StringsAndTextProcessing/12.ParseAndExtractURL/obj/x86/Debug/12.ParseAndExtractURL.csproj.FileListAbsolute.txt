@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\12.ParseAndExtractURL\bin\Debug\12.ParseAndExtractURL.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\12.ParseAndExtractURL\bin\Debug\12.ParseAndExtractURL.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\12.ParseAndExtractURL\obj\x86\Debug\12.ParseAndExtractURL.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\12.ParseAndExtractURL\obj\x86\Debug\12.ParseAndExtractURL.pdb

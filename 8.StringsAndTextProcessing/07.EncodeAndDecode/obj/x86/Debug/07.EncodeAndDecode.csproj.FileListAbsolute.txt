@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\07.EncodeAndDecode\bin\Debug\07.EncodeAndDecode.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\07.EncodeAndDecode\bin\Debug\07.EncodeAndDecode.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\07.EncodeAndDecode\obj\x86\Debug\07.EncodeAndDecode.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\07.EncodeAndDecode\obj\x86\Debug\07.EncodeAndDecode.pdb

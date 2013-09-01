@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\05.TagsForUppercase\bin\Debug\05.TagsForUppercase.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\05.TagsForUppercase\bin\Debug\05.TagsForUppercase.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\05.TagsForUppercase\obj\x86\Debug\05.TagsForUppercase.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\05.TagsForUppercase\obj\x86\Debug\05.TagsForUppercase.pdb

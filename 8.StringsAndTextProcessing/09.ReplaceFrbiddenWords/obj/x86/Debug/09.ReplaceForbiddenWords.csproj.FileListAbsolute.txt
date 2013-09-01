@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\09.ReplaceFrbiddenWords\bin\Debug\09.ReplaceFrbiddenWords.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\09.ReplaceFrbiddenWords\bin\Debug\09.ReplaceFrbiddenWords.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\09.ReplaceFrbiddenWords\obj\x86\Debug\09.ReplaceFrbiddenWords.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\09.ReplaceFrbiddenWords\obj\x86\Debug\09.ReplaceFrbiddenWords.pdb

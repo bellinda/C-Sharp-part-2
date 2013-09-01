@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\15.ReplaceTagsHTML\bin\Debug\15.ReplaceTagsHTML.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\15.ReplaceTagsHTML\bin\Debug\15.ReplaceTagsHTML.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\15.ReplaceTagsHTML\obj\x86\Debug\15.ReplaceTagsHTML.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\15.ReplaceTagsHTML\obj\x86\Debug\15.ReplaceTagsHTML.pdb

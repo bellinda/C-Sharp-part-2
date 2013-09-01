@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\21.AppearanceOfLetters\bin\Debug\21.AppearanceOfLetters.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\21.AppearanceOfLetters\bin\Debug\21.AppearanceOfLetters.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\21.AppearanceOfLetters\obj\x86\Debug\21.AppearanceOfLetters.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\21.AppearanceOfLetters\obj\x86\Debug\21.AppearanceOfLetters.pdb

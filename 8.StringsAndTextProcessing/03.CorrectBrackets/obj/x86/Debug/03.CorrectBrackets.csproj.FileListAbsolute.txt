@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\03.CorrectBrackets\obj\x86\Debug\03.CorrectBrackets.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\03.CorrectBrackets\obj\x86\Debug\03.CorrectBrackets.pdb

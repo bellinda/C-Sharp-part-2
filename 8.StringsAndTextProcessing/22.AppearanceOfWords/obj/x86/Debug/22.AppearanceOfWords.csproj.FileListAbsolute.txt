@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\22.AppearanceOfWords\bin\Debug\22.AppearanceOfWords.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\22.AppearanceOfWords\bin\Debug\22.AppearanceOfWords.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\22.AppearanceOfWords\obj\x86\Debug\22.AppearanceOfWords.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\22.AppearanceOfWords\obj\x86\Debug\22.AppearanceOfWords.pdb

@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\11.ChangeFormatOfInt\bin\Debug\11.ChangeFormatOfInt.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\11.ChangeFormatOfInt\bin\Debug\11.ChangeFormatOfInt.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\11.ChangeFormatOfInt\obj\x86\Debug\11.ChangeFormatOfInt.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\11.ChangeFormatOfInt\obj\x86\Debug\11.ChangeFormatOfInt.pdb

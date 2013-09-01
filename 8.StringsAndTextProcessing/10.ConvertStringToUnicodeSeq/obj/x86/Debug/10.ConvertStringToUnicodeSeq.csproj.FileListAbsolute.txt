@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\10.ConvertStringToUnicodeSeq\bin\Debug\10.ConvertStringToUnicodeSeq.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\10.ConvertStringToUnicodeSeq\bin\Debug\10.ConvertStringToUnicodeSeq.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\10.ConvertStringToUnicodeSeq\obj\x86\Debug\10.ConvertStringToUnicodeSeq.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\10.ConvertStringToUnicodeSeq\obj\x86\Debug\10.ConvertStringToUnicodeSeq.pdb

@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\18.ExtractEmailAddresses\bin\Debug\18.ExtractEmailAddresses.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\18.ExtractEmailAddresses\bin\Debug\18.ExtractEmailAddresses.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\18.ExtractEmailAddresses\obj\x86\Debug\18.ExtractEmailAddresses.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\18.ExtractEmailAddresses\obj\x86\Debug\18.ExtractEmailAddresses.pdb

@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\13.ReverseWordsInSentence\bin\Debug\13.ReverseWordsInSentence.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\13.ReverseWordsInSentence\bin\Debug\13.ReverseWordsInSentence.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\13.ReverseWordsInSentence\obj\x86\Debug\13.ReverseWordsInSentence.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\13.ReverseWordsInSentence\obj\x86\Debug\13.ReverseWordsInSentence.pdb

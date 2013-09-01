@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\14.TranslateUsingDictionary\bin\Debug\14.TranslateUsingDictionary.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\14.TranslateUsingDictionary\bin\Debug\14.TranslateUsingDictionary.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\14.TranslateUsingDictionary\obj\x86\Debug\14.TranslateUsingDictionary.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\14.TranslateUsingDictionary\obj\x86\Debug\14.TranslateUsingDictionary.pdb

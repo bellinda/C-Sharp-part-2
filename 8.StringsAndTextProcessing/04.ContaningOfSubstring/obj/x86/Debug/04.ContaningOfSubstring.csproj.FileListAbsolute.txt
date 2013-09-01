@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\04.ContaningOfSubstring\bin\Debug\04.ContaningOfSubstring.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\04.ContaningOfSubstring\bin\Debug\04.ContaningOfSubstring.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\04.ContaningOfSubstring\obj\x86\Debug\04.ContaningOfSubstring.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\04.ContaningOfSubstring\obj\x86\Debug\04.ContaningOfSubstring.pdb

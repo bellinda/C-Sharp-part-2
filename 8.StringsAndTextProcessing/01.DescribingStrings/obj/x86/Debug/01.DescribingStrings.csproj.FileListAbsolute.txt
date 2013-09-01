@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\01.DescribingStrings\bin\Debug\01.DescribingStrings.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\01.DescribingStrings\bin\Debug\01.DescribingStrings.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\01.DescribingStrings\obj\x86\Debug\01.DescribingStrings.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\01.DescribingStrings\obj\x86\Debug\01.DescribingStrings.pdb

@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\16.ReadAndCalculateDates\bin\Debug\16.ReadAndCalculateDates.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\16.ReadAndCalculateDates\bin\Debug\16.ReadAndCalculateDates.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\16.ReadAndCalculateDates\obj\x86\Debug\16.ReadAndCalculateDates.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\16.ReadAndCalculateDates\obj\x86\Debug\16.ReadAndCalculateDates.pdb

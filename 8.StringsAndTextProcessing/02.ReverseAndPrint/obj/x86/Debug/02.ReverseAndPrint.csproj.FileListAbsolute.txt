@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\02.ReverseAndPrint\bin\Debug\02.ReverseAndPrint.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\02.ReverseAndPrint\bin\Debug\02.ReverseAndPrint.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\02.ReverseAndPrint\obj\x86\Debug\02.ReverseAndPrint.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\02.ReverseAndPrint\obj\x86\Debug\02.ReverseAndPrint.pdb

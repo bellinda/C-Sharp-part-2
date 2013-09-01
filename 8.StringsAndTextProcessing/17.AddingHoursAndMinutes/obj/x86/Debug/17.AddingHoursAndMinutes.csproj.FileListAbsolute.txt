@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\17.AddingHoursAndMinutes\bin\Debug\17.AddingHoursAndMinutes.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\17.AddingHoursAndMinutes\bin\Debug\17.AddingHoursAndMinutes.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\17.AddingHoursAndMinutes\obj\x86\Debug\17.AddingHoursAndMinutes.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\17.AddingHoursAndMinutes\obj\x86\Debug\17.AddingHoursAndMinutes.pdb

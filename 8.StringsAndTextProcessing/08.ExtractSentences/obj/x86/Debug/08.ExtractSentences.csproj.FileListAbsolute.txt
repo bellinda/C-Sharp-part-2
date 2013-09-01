@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\08.ExtractSentences\bin\Debug\08.ExtractSentences.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\08.ExtractSentences\bin\Debug\08.ExtractSentences.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\08.ExtractSentences\obj\x86\Debug\08.ExtractSentences.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\08.ExtractSentences\obj\x86\Debug\08.ExtractSentences.pdb

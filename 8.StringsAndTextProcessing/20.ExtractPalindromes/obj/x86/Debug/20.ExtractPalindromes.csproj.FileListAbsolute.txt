@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\20.ExtractPalindromes\obj\x86\Debug\20.ExtractPalindromes.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\20.ExtractPalindromes\obj\x86\Debug\20.ExtractPalindromes.pdb

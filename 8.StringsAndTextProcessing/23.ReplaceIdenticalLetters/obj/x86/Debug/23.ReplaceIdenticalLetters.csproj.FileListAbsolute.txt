@@ -1,0 +1,4 @@
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\23.ReplaceIdenticalLetters\bin\Debug\23.ReplaceIdenticalLetters.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\23.ReplaceIdenticalLetters\bin\Debug\23.ReplaceIdenticalLetters.pdb
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\23.ReplaceIdenticalLetters\obj\x86\Debug\23.ReplaceIdenticalLetters.exe
+D:\Downloads\Microsoft Visual Studio\Нова папка\C# II part\8.StringsAndTextProcessing\23.ReplaceIdenticalLetters\obj\x86\Debug\23.ReplaceIdenticalLetters.pdb
